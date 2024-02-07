@@ -1,0 +1,16 @@
+Useful Resources
+Hello everyone,
+
+I want to share a few useful WordPress resources with you; all of which you can get started with for free!
+
+If you want to build creative pages with WordPress and you feel limited by the standard WordPress features there are several plugins you can experiment with. The Elementor and Page Builder by SiteOrigin plugins are two of the most popular. I've personally never used these plugins myself but a lot of people absolutely love them; and while they may offer a "Premium" or "Upgraded" version that costs money; they do both allow you to perform many of their features for free.
+
+If you want to create an E-commerce website you'll want to look into the free plugin called WooCommerce and perhaps also a free theme called Astra; both of which you can find in the standard WordPress "Add Plugin" and "Add Theme" screens respectively. WooCommerce is a very rich and complex solution and there are many Udemy courses dedicated entirely just to the topic of building E-commerce websites with it.
+
+If you want to work on improving your site's ranking in Google search results you'll want to try a plugin called Yoast SEO which you can install and get started with for free.
+
+If you want to find images you can use in your site without buying expensive stock photos you can try the website called Unsplash.
+
+That's it,
+Thanks!
+Brad
